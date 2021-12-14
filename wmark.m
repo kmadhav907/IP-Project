@@ -1,7 +1,4 @@
-%Abhijith. S, PAACET, India.
 
-%Implementing Watermarking using discrete 2-D wavelet transform.
-%Input image is watermarked with a key having Mean = 0 & Variance = 1
 
 clc;clear all;close all;
 
